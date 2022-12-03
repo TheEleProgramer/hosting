@@ -1,0 +1,17 @@
+h2{
+    font-size: 35px;
+    font-family: 'Lora', serif;
+}
+p{
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+a{
+    font-size: 21px;
+    font-family: 'Oswald', sans-serif;
+}
+cite{
+    font-size: 20,5px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
